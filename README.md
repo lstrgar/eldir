@@ -1,4 +1,4 @@
-# ELDiR: Evolution and learning in differentiable robots
+# Evolution and learning in differentiable robots
 
 **Code up your favorite evolutionary algorithm and leverage the power of CUDA-accelerated differentiable simulation for fast policy learning and fitness evaluation in complex robots.**
 
